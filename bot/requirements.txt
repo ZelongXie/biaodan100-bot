@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2019.6.16
 chardet==3.0.4
 idna==2.8
-pipenv==2018.11.26
+pipenv==2022.1.8
 python-anticaptcha==0.4.1
 requests==2.22.0
 selenium==3.141.0
